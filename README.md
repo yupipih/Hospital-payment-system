@@ -1,4 +1,4 @@
-# appointment
+# Hospital payment system
 
 > A Vue.js project
 
